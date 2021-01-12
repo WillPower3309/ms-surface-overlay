@@ -28,7 +28,7 @@ ${HOMEPAGE}."
 pkg_setup(){
 	ewarn
 	ewarn "${PN} is *not* supported by the Gentoo Kernel Project in any way."
-	ewarn "If you need support, please contact the Liquorix developers directly."
+	ewarn "If you need support, please contact the linux-surface developers directly."
 	ewarn "Do *not* open bugs in Gentoo's bugzilla unless you have issues with"
 	ewarn "the ebuilds. Thank you."
 	ewarn
