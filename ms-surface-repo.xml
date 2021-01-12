@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+	<repo quality="experimental" status="unofficial">
+		<name>ms-surface-gentoo</name>
+		<description lang="en">Custom Gentoo Microsoft Surface Overlay</description>
+		<homepage>https://github.com/willpower3309/ms-surface-overlay</homepage>
+		<owner type="person">
+			<name>William McKinnon</name>
+			<email>contact@willmckinnon.com</email>
+        	</owner>
+		<source type="git">git://github.com/willpower3309/ms-surface-overlay.git</source>
+	        <feed>https://github.com/willpower3309/ms-surface-overlay/commits/master.atom</feed>
+	</repo>
+</repositories>
